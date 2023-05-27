@@ -1,4 +1,7 @@
 # Основные комманды Git. Cеминар №1
+
+- Для оформления с помощью Markdown пользовался [GitHub](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ![Логотип Гит](/logo_git.jpg) ![VS Code](/vslogo.jpg)
 
 >*git init* – инициализация локального репозитория
