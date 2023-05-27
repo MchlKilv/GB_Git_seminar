@@ -1,7 +1,5 @@
 # Основные комманды Git. Cеминар №1
-![Логотип Гит](/logo_git.jpg)
-
-![VS Code](/vslogo.jpg)
+![Логотип Гит](/logo_git.jpg) ![VS Code](/vslogo.jpg)
 
 >*git init* – инициализация локального репозитория
 
