@@ -25,3 +25,5 @@
 > *git branch [branch_name]* - создать новую ветку с названием branch_name.
 
 > *git checkout [branch_name] - переход к ветке с имененем branch_name.
+
+> *git branch -d [branch_name]* - удвлить ветку с названием branch_name
