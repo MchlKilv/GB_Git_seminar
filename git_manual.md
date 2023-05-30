@@ -2,7 +2,7 @@
 
 - Для оформления с помощью Markdown пользовался [GitHub](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-![Логотип Гит](/logo_git.jpg) ![VS Code](/vslogo.jpg)
+![Логотип Гит](logo_git.jpg) ![VS Code](/vslogo.jpg)
 
 >*git init* – инициализация локального репозитория
 
@@ -19,3 +19,6 @@
 >*git checkout master* – вернуться к актуальному состоянию и продолжить работу
 
 >*git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
+
+# Основные комманды Git. Семинар №2
+
