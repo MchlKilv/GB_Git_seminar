@@ -26,6 +26,8 @@
 
 > *git checkout [branch_name]* - переход к ветке с имененем branch_name.
 
+> *git branch* - выводит список веток и указывает текущую ветку
+
 > *git branch -d [branch_name]* - удaлить ветку с названием branch_name
 
 > *git log --graph* - выводит историю коммитов и их хеш-коды в древовидной форме
