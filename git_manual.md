@@ -38,6 +38,6 @@
 
 > *git merge --abort* - отменяет слияние веток, в котором происходит конфликт
 
-> *git checkout -b [branch_name] - содает новую ветку с имененем branch_name и переходит на нее.
+> *git checkout -b [branch_name]* - содает новую ветку с имененем branch_name и переходит на нее.
 
 > *git commit -am "message text"* - создает коммит к отслеживаемому файлу.
