@@ -24,7 +24,7 @@
 
 > *git branch [branch_name]* - создать новую ветку с названием branch_name.
 
-> *git checkout [branch_name] - переход к ветке с имененем branch_name.
+> *git checkout [branch_name]* - переход к ветке с имененем branch_name.
 
 > *git branch -d [branch_name]* - удaлить ветку с названием branch_name
 
@@ -35,3 +35,7 @@
 > *git merge [branch_name]* - выполняет слияние ветки [branch_name] с текущей веткой
 
 > *git merge --abort* - отменяет слияние веток, в котором происходит конфликт
+
+> *git checkout -b [branch_name] - содает новую ветку с имененем branch_name и переходит на нее.
+
+> *git commit -am "message text"* - создает коммит к отслеживаемому файлу.
