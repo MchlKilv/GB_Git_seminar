@@ -1,4 +1,4 @@
-# Основные комманды Git. Cеминар №1
+# Основные комманды Git. *Cеминар №1*
 
 - Для оформления с помощью Markdown пользовался [GitHub](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -20,7 +20,7 @@
 
 >*git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
 
-# Основные комманды Git. Семинар №2
+# Основные комманды Git. *Семинар №2*
 
 > *git branch [branch_name]* - создать новую ветку с названием branch_name.
 
@@ -28,7 +28,7 @@
 
 > *git branch* - выводит список веток и указывает текущую ветку
 
-> *git branch -d [branch_name]* - удaлить ветку с названием branch_name
+> *git branch -d [branch_name]* - удaлить ветку с названием ~~branch_name~~
 
 > *git log --graph* - выводит историю коммитов и их хеш-коды в древовидной форме
 
